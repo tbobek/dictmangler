@@ -1,0 +1,45 @@
+[{
+    "type": "-",
+    "name": "car1",
+    "sticky": false,
+    "rights": {
+        "user": "rw",
+        "group": "r",
+        "other": "r"
+    },
+    "acl": false,
+    "owner": "ftp",
+    "group": "ftp",
+    "size": 153719,
+    "date": "2018-08-18T00:00:00.000Z"
+},
+{
+    "type": "-",
+    "name": "car2",
+    "sticky": false,
+    "rights": {
+        "user": "rw",
+        "group": "r",
+        "other": "r"
+    },
+    "acl": false,
+    "owner": "ftp",
+    "group": "ftp",
+    "size": 57596,
+    "date": "2018-08-19T00:00:00.000Z"
+},
+{
+    "type": "-",
+    "name": "car3",
+    "sticky": false,
+    "rights": {
+        "user": "rw",
+        "group": "r",
+        "other": "r"
+    },
+    "acl": false,
+    "owner": "ftp",
+    "group": "ftp",
+    "size": 105813,
+    "date": "2018-09-20T00:00:00.000Z"
+}]
