@@ -2,3 +2,4 @@ dictchange.py
 __pycache__/
 settings.json
 directory1.txt
+__init__.py~
